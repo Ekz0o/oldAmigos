@@ -1,0 +1,26 @@
+/* all styles*/
+
+a{
+  text-decoration: none;
+}
+
+/*  siteWrap  */
+
+.siteWrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 960px;
+  margin: 0 auto;
+  background-color: #E5E7ED;
+}
+
+/*  Profile */ 
+
+.profile {
+  background-color: #FCFCFC;
+  max-width: 790px;
+  margin: 30px 0 0 25px;
+  border-radius: 15px;
+  height: min-content;
+}

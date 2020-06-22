@@ -1,0 +1,14 @@
+/*   Footer */ 
+
+.footer {
+   margin: 0 auto;
+   max-width: 960px;
+   height: 20px;
+   background-color: #E5E7ED;
+   border-radius: 0 0 15px 15px;
+ }
+ 
+ .footerEnd {
+   height: 50px;
+   background-color: white;
+ }

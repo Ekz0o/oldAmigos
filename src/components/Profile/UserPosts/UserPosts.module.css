@@ -1,0 +1,51 @@
+/*   UserPosts  */
+
+.postsWrap {
+   background-color: #FCFCFC;
+   margin: 30px 45px 0 45px;
+   border-radius: 15px;
+   box-shadow: 0 0 20px #DEDEDE;
+ }
+ 
+ .postImg img {
+   border-radius: 15px 15px 0 0 ;
+   width: 700px;
+   height: 200px;
+   box-shadow: 0 0 20px #DEDEDE;
+ }
+ 
+ .postInfo {
+   margin: 30px 20px 20px 20px;
+   display: flex;
+   flex-direction: column;
+ }
+ 
+ 
+ 
+ .postInfo h1 {
+   font-size: 20px;
+ }
+ 
+ .postInfo p#info {
+   font-size: 14px;
+   margin: 0;
+   font-style: italic;
+   color: #6E6E6E;
+ }
+
+button {
+    margin-top: 10px;
+    background-color: #3174E3;
+    padding: 4px 20px 5px 20px;
+    border-radius: 40px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.textarea {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}

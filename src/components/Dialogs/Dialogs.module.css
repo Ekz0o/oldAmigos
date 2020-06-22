@@ -1,0 +1,38 @@
+
+
+.wrap {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.friendsWrap {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    box-shadow: 0 0 20px #DEDEDE;
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+    border-radius: 15px;
+}
+
+.dialogsWrap {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    box-shadow: 0 0 20px #DEDEDE;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    width: 500px;
+}
+
+.userName p {
+    padding: 20px;
+    background: #888888;
+    color: white;
+    border-radius: 15px;
+    width: 100px;
+    text-align: center;
+}

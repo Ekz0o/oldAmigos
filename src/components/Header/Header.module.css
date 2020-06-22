@@ -1,0 +1,33 @@
+/* Header*/
+
+.header {
+   background-color: #3174E2;
+   height: 45px;
+ }
+ 
+ .headerWrap {
+   display: flex;
+   flex-direction: row;
+   max-width: 960px;
+   margin: 0 auto;
+ }
+ 
+ .headerWrap a#inside {
+   margin-left: auto;
+   margin-top: 9px;
+ }
+ 
+ .headerWrap p#amigo {
+   color: white;
+   margin: 8px 0 0 150px;
+   font-size: 20px;
+ }
+ 
+ .headerWrap p#insideText {
+   color: white;
+   font-size: 20px;
+   margin: 8px 30px 0 10px;
+   text-decoration: none;
+ 
+ }
+ 
